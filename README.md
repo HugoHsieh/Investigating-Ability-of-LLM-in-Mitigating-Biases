@@ -8,4 +8,4 @@ This is the final project of Data Science and Public Policy at Columbia Universi
 
 •	Explored LLMs by examining stereotypes of LLM-generated corpora under various experimental settings to assess LLMs’ abilities in mitigating biases
 
-This is an ongoing project. Please see Proposal.pdf for more details about our initial thoughts. The final report would be uploaded here by late May.
+Please see Report.pdf for more details about our works.
